@@ -1,4 +1,4 @@
-import 'package:highlight/languages/python.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import '../../single_line_comments/parser/single_line_comments.dart';
 import 'fallback.dart';

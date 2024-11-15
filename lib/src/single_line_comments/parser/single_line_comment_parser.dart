@@ -1,4 +1,4 @@
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import 'abstract_single_line_comment_parser.dart';
 import 'highlight_single_line_comment_parser.dart';

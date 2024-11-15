@@ -7,8 +7,8 @@ import 'package:flutter_code_editor/src/service_comment_filter/service_comment_f
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comment_parser.dart';
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comments.dart';
 import 'package:flutter_code_editor/src/single_line_comments/single_line_comment.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/highlight_core.dart';
 
 /// Shorter alias for [FoldableBlock] to avoid line breaks.
 typedef FB = FoldableBlock;

@@ -1,11 +1,4 @@
-import 'package:highlight/highlight_core.dart';
-import 'package:highlight/languages/dart.dart';
-import 'package:highlight/languages/go.dart';
-import 'package:highlight/languages/java.dart';
-import 'package:highlight/languages/php.dart';
-import 'package:highlight/languages/python.dart';
-import 'package:highlight/languages/scala.dart';
-import 'package:highlight/languages/vhdl.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 class SingleLineComments {
   const SingleLineComments._();

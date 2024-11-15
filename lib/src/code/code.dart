@@ -2,9 +2,8 @@ import 'dart:math';
 
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
-import '../../src/highlight/result.dart';
 import '../code_field/text_editing_value.dart';
 import '../folding/foldable_block.dart';
 import '../folding/foldable_block_matcher.dart';
@@ -15,6 +14,7 @@ import '../hidden_ranges/hidden_line_ranges_builder.dart';
 import '../hidden_ranges/hidden_range.dart';
 import '../hidden_ranges/hidden_ranges.dart';
 import '../hidden_ranges/hidden_ranges_builder.dart';
+import '../highlight/result.dart';
 import '../named_sections/named_section.dart';
 import '../named_sections/parsers/abstract.dart';
 import '../service_comment_filter/service_comment_filter.dart';

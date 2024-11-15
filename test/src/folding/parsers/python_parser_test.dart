@@ -8,9 +8,8 @@ import 'package:flutter_code_editor/src/named_sections/parsers/brackets_start_en
 import 'package:flutter_code_editor/src/service_comment_filter/service_comment_filter.dart';
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comment_parser.dart';
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comments.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/highlight_core.dart';
-import 'package:highlight/languages/python.dart';
 
 void main() {
   test('Python. Foldable blocks', () {

@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import '../code/code.dart';
 import '../code/text_style.dart';

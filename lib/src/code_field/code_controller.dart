@@ -5,7 +5,7 @@ import 'dart:async';
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:meta/meta.dart';
 
 import '../../flutter_code_editor.dart';

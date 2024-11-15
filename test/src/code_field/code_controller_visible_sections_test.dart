@@ -2,8 +2,8 @@
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_code_editor/src/code_field/code_controller.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/languages/dart.dart';
 
 import '../common/create_app.dart';
 

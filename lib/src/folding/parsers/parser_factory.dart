@@ -1,6 +1,4 @@
-import 'package:highlight/highlight_core.dart';
-import 'package:highlight/languages/java.dart';
-import 'package:highlight/languages/python.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import 'abstract.dart';
 import 'highlight.dart';

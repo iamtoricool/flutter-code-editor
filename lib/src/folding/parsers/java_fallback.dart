@@ -1,4 +1,5 @@
-import 'package:highlight/languages/java.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
+
 import 'package:tuple/tuple.dart';
 
 import '../../single_line_comments/parser/single_line_comments.dart';

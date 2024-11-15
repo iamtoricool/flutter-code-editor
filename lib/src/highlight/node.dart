@@ -1,5 +1,5 @@
 import 'package:collection/collection.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import 'keyword_semantics.dart';
 import 'node_classes.dart';

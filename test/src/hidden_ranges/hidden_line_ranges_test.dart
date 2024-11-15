@@ -1,8 +1,8 @@
 import 'package:flutter_code_editor/src/code/code.dart';
 import 'package:flutter_code_editor/src/hidden_ranges/hidden_line_ranges.dart';
 import 'package:flutter_code_editor/src/hidden_ranges/line_numbering_breakpoint.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/languages/dart.dart';
 
 void main() {
   final emptyTextBreakpointRanges = HiddenLineRanges(

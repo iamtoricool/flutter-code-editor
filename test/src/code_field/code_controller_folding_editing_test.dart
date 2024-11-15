@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/languages/python.dart';
 
 import '../common/create_app.dart';
 import '../common/snippets.dart';

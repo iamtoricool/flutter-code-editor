@@ -1,7 +1,7 @@
 // ignore_for_file: use_string_buffers
 
 import 'package:charcode/ascii.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:tuple/tuple.dart';
 
 import '../../code/code_lines.dart';

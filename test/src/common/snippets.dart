@@ -1,5 +1,4 @@
-import 'package:highlight/highlight_core.dart';
-import 'package:highlight/languages/java.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 class MethodSnippet {
   static const full = '''

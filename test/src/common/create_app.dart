@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_code_editor/flutter_code_editor.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/highlight.dart';
-import 'package:highlight/languages/java.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 FocusNode focusNode = FocusNode();
 

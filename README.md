@@ -23,7 +23,8 @@ Flutter Code Editor is a multi-platform code editor supporting:
 import 'package:flutter/material.dart';
 import 'package:flutter_code_editor/flutter_code_editor.dart';
 import 'package:flutter_highlight/themes/monokai-sublime.dart';
-import 'package:highlight/languages/java.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
+
 
 void main() {
   runApp(const CodeEditor());

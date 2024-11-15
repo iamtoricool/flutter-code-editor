@@ -1,7 +1,6 @@
 import 'package:flutter_code_editor/flutter_code_editor.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/languages/java.dart';
-import 'package:highlight/languages/python.dart';
 import 'package:mocktail/mocktail.dart';
 
 class TestAnalyzer extends Mock implements AbstractAnalyzer {}

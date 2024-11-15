@@ -10,8 +10,7 @@ import 'dart:js_interop_unsafe' as js_util;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_code_editor/flutter_code_editor.dart';
-import 'package:flutter_highlight/themes/vs2015.dart';
-import 'package:highlight/languages/java.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 const attempts = 5;
 const maxKLines = 10;

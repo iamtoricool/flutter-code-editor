@@ -1,5 +1,5 @@
 import 'package:autotrie/autotrie.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import '../code/reg_exp.dart';
 

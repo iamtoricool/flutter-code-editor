@@ -1,6 +1,6 @@
 import 'package:charcode/ascii.dart';
 import 'package:collection/collection.dart';
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import '../../code/code_lines.dart';
 import '../../highlight/keyword_semantics.dart';

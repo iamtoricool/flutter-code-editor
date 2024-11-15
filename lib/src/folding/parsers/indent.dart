@@ -1,4 +1,4 @@
-import 'package:highlight/highlight_core.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 
 import '../../code/code_line.dart';
 import '../../code/code_lines.dart';

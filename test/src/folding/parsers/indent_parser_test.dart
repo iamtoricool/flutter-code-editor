@@ -6,9 +6,8 @@ import 'package:flutter_code_editor/src/folding/foldable_block_type.dart';
 import 'package:flutter_code_editor/src/folding/parsers/indent.dart';
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comment_parser.dart';
 import 'package:flutter_code_editor/src/single_line_comments/parser/single_line_comments.dart';
+import 'package:flutter_highlight/flutter_highlight.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:highlight/highlight_core.dart';
-import 'package:highlight/languages/python.dart';
 
 void main() {
   group('IndentFoldableBlockParser', () {
