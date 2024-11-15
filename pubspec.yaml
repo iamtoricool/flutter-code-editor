@@ -16,7 +16,9 @@ dependencies:
   equatable: ^2.0.5
   flutter: { sdk: flutter }
   flutter_highlight: 
-    path: ../flutter_highlight
+    git:
+      url: https://github.com/iamtoricool/flutter_highlight
+      ref: main
   # highlight: ^0.7.0
   http: ^1.1.0
   linked_scroll_controller: ^0.2.0
